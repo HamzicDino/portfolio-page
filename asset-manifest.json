@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HamzicDino/portfolio-page/new-portfolio-page/static/css/main.073c9b0a.css",
+    "main.js": "/HamzicDino/portfolio-page/new-portfolio-page/static/js/main.2861117c.js",
+    "static/js/787.f762fa45.chunk.js": "/HamzicDino/portfolio-page/new-portfolio-page/static/js/787.f762fa45.chunk.js",
+    "static/media/logo.svg": "/HamzicDino/portfolio-page/new-portfolio-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/HamzicDino/portfolio-page/new-portfolio-page/index.html",
+    "main.073c9b0a.css.map": "/HamzicDino/portfolio-page/new-portfolio-page/static/css/main.073c9b0a.css.map",
+    "main.2861117c.js.map": "/HamzicDino/portfolio-page/new-portfolio-page/static/js/main.2861117c.js.map",
+    "787.f762fa45.chunk.js.map": "/HamzicDino/portfolio-page/new-portfolio-page/static/js/787.f762fa45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2861117c.js"
+  ]
+}
